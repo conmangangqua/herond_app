@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "ai_art_photo_editor",
+      "name": "Ai Art Photo Editor",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/ai_art_photo_editor_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/ai_art_photo_editor_dev.apk"
+      }
+    },
+    {
       "id": "snapvid",
       "name": "Snapvid",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
