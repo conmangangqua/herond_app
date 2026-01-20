@@ -1,0 +1,53 @@
+{
+  "apps": [
+    {
+      "id": "8bit_games",
+      "name": "8bit Games",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/8bit_games_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/8bit_games_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/8bit_games_prod.apk",
+        "aab": "https://github.com/conmangangqua/azura_app/releases/download/aab/8bit_games.aab"
+      }
+    },
+    {
+      "id": "camera_ai",
+      "name": "Camera Ai",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_ai_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/camera_ai_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/camera_ai_prod.apk"
+      }
+    },
+    {
+      "id": "swift_secure_vpn",
+      "name": "Swift Secure Vpn",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/swift_secure_vpn_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/swift_secure_vpn_prod.apk"
+      }
+    },
+    {
+      "id": "vidkeeper_video_downloader",
+      "name": "Vidkeeper Video Downloader",
+      "icon": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/azura_app/releases/download/dev/vidkeeper_video_downloader_dev.apk",
+        "prod": "https://github.com/conmangangqua/azura_app/releases/download/prod/vidkeeper_video_downloader_prod.apk"
+      }
+    }
+  ]
+}
