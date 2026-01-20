@@ -3,12 +3,13 @@
     {
       "id": "snapvid",
       "name": "Snapvid",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk"
       }
     }
   ]
