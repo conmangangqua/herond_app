@@ -1,6 +1,17 @@
 {
   "apps": [
     {
+      "id": "luminai",
+      "name": "Luminai",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk"
+      }
+    },
+    {
       "id": "snapai_editor",
       "name": "Snapai Editor",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_icon.png",
