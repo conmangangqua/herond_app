@@ -9,7 +9,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/luminai.aab"
       }
     },
     {
