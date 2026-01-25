@@ -1,18 +1,6 @@
 {
   "apps": [
     {
-      "id": "ai_art_photo_editor",
-      "name": "Ai Art Photo Editor",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/ai_art_photo_editor_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/ai_art_photo_editor_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/ai_art_photo_editor_prod.apk"
-      }
-    },
-    {
       "id": "snapai_editor",
       "name": "Snapai Editor",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_icon.png",
@@ -21,7 +9,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapai_editor.aab"
       }
     },
     {
