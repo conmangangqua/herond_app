@@ -15,12 +15,13 @@
     {
       "id": "snapai_editor",
       "name": "Snapai Editor",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_dev.apk"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_dev.apk",
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapai_editor_prod.apk"
       }
     },
     {
