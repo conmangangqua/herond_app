@@ -13,6 +13,17 @@
       }
     },
     {
+      "id": "snapai_editor",
+      "name": "Snapai Editor",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapai_editor_dev.apk"
+      }
+    },
+    {
       "id": "snapvid",
       "name": "Snapvid",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
