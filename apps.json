@@ -16,7 +16,7 @@
     {
       "id": "snapvid",
       "name": "Snapvid",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
