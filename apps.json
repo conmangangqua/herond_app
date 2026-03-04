@@ -14,17 +14,6 @@
       }
     },
     {
-      "id": "luminai_dev",
-      "name": "Luminai Dev",
-      "icon": "",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev_dev.apk"
-      }
-    },
-    {
       "id": "snapvid",
       "name": "Snapvid",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
@@ -35,17 +24,6 @@
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
-      }
-    },
-    {
-      "id": "snapvid_dev",
-      "name": "Snapvid Dev",
-      "icon": "",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev_dev.apk"
       }
     }
   ]
