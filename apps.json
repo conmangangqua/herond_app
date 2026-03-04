@@ -36,6 +36,17 @@
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
       }
+    },
+    {
+      "id": "snapvid_dev",
+      "name": "Snapvid Dev",
+      "icon": "",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev_dev.apk"
+      }
     }
   ]
 }
