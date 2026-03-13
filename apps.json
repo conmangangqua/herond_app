@@ -22,7 +22,8 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
       }
     }
   ]
