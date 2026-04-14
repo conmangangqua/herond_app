@@ -8,7 +8,8 @@
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/hyper_boost_dev.apk"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/hyper_boost_dev.apk",
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/hyper_boost_prod.apk"
       }
     },
     {
