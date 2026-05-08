@@ -27,6 +27,17 @@
       }
     },
     {
+      "id": "pulsar_booster",
+      "name": "Pulsar Booster",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_dev.apk"
+      }
+    },
+    {
       "id": "snapvid",
       "name": "Snapvid",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
