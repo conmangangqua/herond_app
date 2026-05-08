@@ -1,19 +1,6 @@
 {
   "apps": [
     {
-      "id": "hyper_boost",
-      "name": "Hyper Boost",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/hyper_boost_icon.png",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/hyper_boost_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/hyper_boost_prod.apk",
-        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/hyper_boost.aab"
-      }
-    },
-    {
       "id": "luminai",
       "name": "Luminai",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
@@ -29,7 +16,7 @@
     {
       "id": "pulsar_booster",
       "name": "Pulsar Booster",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
