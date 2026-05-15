@@ -9,7 +9,8 @@
       "features": [],
       "downloads": {
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/hyper_boost.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "luminai",
@@ -22,7 +23,8 @@
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/luminai.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "pulsar_booster",
@@ -35,7 +37,8 @@
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/pulsar_booster.aab"
-      }
+      },
+      "versions": {}
     },
     {
       "id": "snapvid",
@@ -48,6 +51,9 @@
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
+      },
+      "versions": {
+        "dev": "1.0.6+26051501"
       }
     }
   ]
