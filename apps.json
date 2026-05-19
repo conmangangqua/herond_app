@@ -1,18 +1,6 @@
 {
   "apps": [
     {
-      "id": "hyper_boost",
-      "name": "Hyper Boost",
-      "icon": "",
-      "platform": "Android",
-      "description": "",
-      "features": [],
-      "downloads": {
-        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/hyper_boost.aab"
-      },
-      "versions": {}
-    },
-    {
       "id": "luminai",
       "name": "Luminai",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
@@ -24,7 +12,8 @@
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/luminai.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod"
     },
     {
       "id": "pulsar_booster",
@@ -38,7 +27,8 @@
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/pulsar_booster.aab"
       },
-      "versions": {}
+      "versions": {},
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster"
     },
     {
       "id": "snapvid",
@@ -56,7 +46,8 @@
         "dev": "1.0.6+26051501",
         "prod": "1.0.6+26051501",
         "aab": "1.0.6+26051501"
-      }
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod"
     }
   ]
 }
