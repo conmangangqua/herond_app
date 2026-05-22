@@ -97,6 +97,14 @@
 
 
   <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js" defer></script>
+  <style>/* AAB_BTNFIX5 (unified icon+text centered) */
+    .btn{display:inline-flex !important;align-items:center !important;justify-content:center !important;gap:10px !important;position:relative}
+    .btn-ic{position:static !important;display:inline-flex !important;flex-shrink:0;align-items:center;justify-content:center;width:18px;height:18px;line-height:1;pointer-events:none;color:currentColor;transform:none !important;left:auto !important;top:auto !important}
+    .btn-ic svg{width:18px !important;height:18px !important;stroke:currentColor !important;stroke-width:2 !important;fill:none !important}
+    .btn-stack{display:inline-flex !important;flex-direction:column;align-items:center;justify-content:center;width:auto !important;min-width:0}
+    .btn-stack .ver{white-space:nowrap;font-size:10px}
+    .badge-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+  </style>
   <style>/* badge-gradient-override */
     .badge { display: inline-flex; align-items: center; gap: 6px; font-size: 0.78rem; font-weight: 800; padding: 6px 14px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.04em; }
     .badge i, .badge svg { width: 14px; height: 14px; stroke-width: 2.2; }
@@ -141,7 +149,7 @@
       const query = document.getElementById("searchInput").value.toLowerCase();
       renderApps(allApps.filter(app => app.name.toLowerCase().includes(query) || (app.description && app.description.toLowerCase().includes(query))));
     };
-    fetch("apps.json").then(res => res.json()).then(data => { allApps = data.apps || []; allApps.sort((a,b) => (b.store ? 1 : 0) - (a.store ? 1 : 0)); renderApps(allApps); runHealthCheck(); window.lucide && lucide.createIcons(); }).catch(err => { document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; font-weight: 800; text-align: center; grid-column: 1/-1;">❌ Connection error. Please try again later.</div>'; });
+    fetch("apps.json").then(res => res.json()).then(data => { allApps = data.apps || []; allApps.sort((a,b) => (b.store ? 1 : 0) - (a.store ? 1 : 0)); renderApps(allApps); window.lucide && lucide.createIcons(); runHealthCheck(); window.lucide && lucide.createIcons(); }).catch(err => { document.getElementById("appContainer").innerHTML = '<div style="color: #ef4444; font-weight: 800; text-align: center; grid-column: 1/-1;">❌ Connection error. Please try again later.</div>'; });
 
     function escHtml(s){ return String(s||"").replace(/[&<>"']/g,function(c){return ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"})[c];}); }
     function urlRow(label, url, ok){
@@ -195,7 +203,7 @@
             if(addBtn){
               addBtn.setAttribute("data-has-store","0");
               const stack = addBtn.querySelector('.btn-stack');
-              if(stack) stack.textContent="Update Store Link (URL 404)";
+              if(stack) stack.innerHTML='Update Store Link (URL 404)';
             }
           } else if(h.store_url && h.store_ok===true){
             card.classList.add("store-live");
@@ -234,6 +242,7 @@
           return score(b) - score(a);
         });
         cardsToSort.forEach(c => container.appendChild(c));
+        window.lucide && lucide.createIcons();
       }catch(e){ /* silent */ }
     }
     window.runHealthCheck = runHealthCheck;
