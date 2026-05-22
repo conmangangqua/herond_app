@@ -33,7 +33,7 @@
     {
       "id": "snapvid",
       "name": "Snapvid",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -43,7 +43,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
       },
       "versions": {
-        "dev": "1.0.6+26051501",
+        "dev": "1.0.7+26052201",
         "prod": "1.0.6+26051501",
         "aab": "1.0.6+26051501"
       },
