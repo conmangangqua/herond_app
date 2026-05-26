@@ -5,7 +5,7 @@
       "name": "Luminai",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
       "platform": "Android",
-      "description": "AI photo editor with art styles, smart tools, crop and gallery in one place.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk",
@@ -18,16 +18,18 @@
     {
       "id": "pulsar_booster",
       "name": "Pulsar Booster",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_icon.png",
       "platform": "Android",
-      "description": "Game dashboard with RAM cleaner, device monitor, GFX tools and floating FPS.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/pulsar_booster.aab"
       },
-      "versions": {},
+      "versions": {
+        "dev": "1.0.0+26051301"
+      },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster"
     },
     {
@@ -35,7 +37,7 @@
       "name": "Snapvid",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
       "platform": "Android",
-      "description": "Save videos & photos to your gallery fast with a simple, lightweight downloader.",
+      "description": "",
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
