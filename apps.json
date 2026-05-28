@@ -3,56 +3,45 @@
     {
       "id": "luminai",
       "name": "Luminai",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_icon.png",
       "platform": "Android",
-      "description": "LuminAI — AI photo editor with art styles, smart tools, crop and gallery in one place.",
+      "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_prod.apk",
-        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/luminai.aab"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_dev.apk"
       },
       "versions": {
-        "dev": "1.0.0+26012802",
-        "prod": "1.0.0+26012802"
+        "dev": "1.0.0+26012802"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod"
     },
     {
       "id": "pulsar_booster",
       "name": "Pulsar Booster",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_icon.png",
       "platform": "Android",
-      "description": "PulsarBooster: Game Dashboard — Game dashboard with RAM cleaner, device monitor, GFX tools and floating FPS.",
+      "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_prod.apk",
-        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/pulsar_booster.aab"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_dev.apk"
       },
       "versions": {
-        "dev": "1.0.1+26052701",
-        "prod": "1.0.1+26052701",
-        "aab": "1.0.1+26052701"
+        "dev": "1.0.1+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster"
     },
     {
       "id": "snapvid",
       "name": "Snapvid",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_icon.png",
       "platform": "Android",
-      "description": "SnapVid - Video Saver — Save videos & photos to your gallery fast with a simple, lightweight downloader.",
+      "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_prod.apk",
-        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/snapvid_dev.apk"
       },
       "versions": {
-        "dev": "1.0.7+26052701",
-        "prod": "1.0.7+26052701",
-        "aab": "1.0.7+26052701"
+        "dev": "1.0.7+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod"
     }
