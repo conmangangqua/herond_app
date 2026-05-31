@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": "drama_loom",
+      "name": "Drama Loom",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.0+1"
+      },
+      "store": ""
+    },
+    {
       "id": "luminai",
       "name": "Luminai",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
