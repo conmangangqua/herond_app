@@ -3,15 +3,17 @@
     {
       "id": "drama_loom",
       "name": "Drama Loom",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_dev.apk"
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_dev.apk",
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+1"
+        "dev": "1.0.0+1",
+        "prod": "1.0.0+1"
       },
       "store": ""
     },
