@@ -99,11 +99,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/veil_tunnel_browser_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/veil_tunnel_browser_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/veil_tunnel_browser_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/veil_tunnel_browser.aab"
       },
       "versions": {
         "dev": "1.0.0+26060501",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+26060501"
       },
       "store": ""
     }
