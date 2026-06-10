@@ -93,7 +93,7 @@
     {
       "id": "veil_tunnel_browser",
       "name": "Veil Tunnel Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/veil_tunnel_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/veil_tunnel_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -103,7 +103,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/veil_tunnel_browser.aab"
       },
       "versions": {
-        "dev": "1.0.0+26060501",
+        "dev": "1.0.1+26061001",
         "prod": "1.0.0+26060501",
         "aab": "1.0.0+26060501"
       },
