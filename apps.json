@@ -82,11 +82,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/star_ring_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/star_ring.aab"
       },
       "versions": {
         "dev": "1.0.0+26061102",
-        "prod": "1.0.0+26061102"
+        "prod": "1.0.0+26061102",
+        "aab": "1.0.0+26061102"
       },
       "store": ""
     },
