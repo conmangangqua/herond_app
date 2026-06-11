@@ -76,7 +76,7 @@
     {
       "id": "star_ring",
       "name": "Star Ring",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/star_ring_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -85,7 +85,7 @@
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_prod.apk"
       },
       "versions": {
-        "dev": "1.0.0+26061101",
+        "dev": "1.0.0+26061102",
         "prod": "1.0.0+26061101"
       },
       "store": ""
