@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-06-12T21:41:37",
+  "apps": {
+    "luminai": {
+      "updated_on": "Jan 29, 2026",
+      "updated_ts": 1769661005,
+      "package_id": "com.tmt.aiphoto.prod"
+    },
+    "pulsar_booster": {
+      "updated_on": "May 28, 2026",
+      "updated_ts": 1779938972,
+      "package_id": "com.tranquilherond.pulsar.booster"
+    },
+    "snapvid": {
+      "updated_on": "May 27, 2026",
+      "updated_ts": 1779895909,
+      "package_id": "com.tranquil.downloader.prod"
+    },
+    "veil_tunnel_browser": {
+      "updated_on": "Jun 10, 2026",
+      "updated_ts": 1781069179,
+      "package_id": "com.tranquiltmt.veiltunnel.browser"
+    },
+    "star_ring": {
+      "updated_on": "Jun 12, 2026",
+      "updated_ts": 1781204991,
+      "package_id": "com.tranquiltmt.starring"
+    }
+  }
+}
