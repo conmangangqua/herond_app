@@ -9,11 +9,13 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/drama_loom_dev.apk",
-        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_prod.apk"
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_prod.apk",
+        "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/drama_loom.aab"
       },
       "versions": {
         "dev": "1.0.0+1",
-        "prod": "1.0.0+1"
+        "prod": "1.0.0+1",
+        "aab": "1.0.0+1"
       },
       "store": ""
     },
