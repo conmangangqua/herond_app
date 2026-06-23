@@ -18,8 +18,8 @@
         "aab": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
-      "category": "Entertainment",
-      "category_source": "store"
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "luminai",
@@ -59,8 +59,8 @@
         "aab": "1.0.1+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
-      "category": "Tools",
-      "category_source": "store"
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "snapvid",
@@ -80,8 +80,8 @@
         "aab": "1.0.7+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
-      "category": "Tools",
-      "category_source": "store"
+      "category": "Downloader",
+      "category_source": "rule"
     },
     {
       "id": "star_ring",
@@ -124,8 +124,8 @@
         "noads": "1.0.1+26061001"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
-      "category": "Communication",
-      "category_source": "store"
+      "category": "Browser",
+      "category_source": "rule"
     }
   ]
 }
