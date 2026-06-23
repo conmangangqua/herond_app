@@ -17,7 +17,9 @@
         "prod": "1.0.0+1",
         "aab": "1.0.0+1"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
+      "category": "Entertainment",
+      "category_source": "store"
     },
     {
       "id": "luminai",
@@ -35,7 +37,9 @@
         "dev": "1.0.0+26012802",
         "prod": "1.0.0+26012802"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod"
+      "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod",
+      "category": "Art & Design",
+      "category_source": "store"
     },
     {
       "id": "pulsar_booster",
@@ -54,7 +58,9 @@
         "prod": "1.0.1+26052701",
         "aab": "1.0.1+26052701"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "snapvid",
@@ -73,7 +79,9 @@
         "prod": "1.0.7+26052701",
         "aab": "1.0.7+26052701"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
+      "category": "Tools",
+      "category_source": "store"
     },
     {
       "id": "star_ring",
@@ -92,7 +100,9 @@
         "prod": "1.0.0+26061103",
         "aab": "1.0.0+26061103"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
+      "category": null,
+      "category_source": null
     },
     {
       "id": "veil_tunnel_browser",
@@ -113,7 +123,9 @@
         "aab": "1.0.1+26061001",
         "noads": "1.0.1+26061001"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser"
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
+      "category": "Communication",
+      "category_source": "store"
     }
   ]
 }
