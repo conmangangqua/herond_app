@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:41:37",
+  "generated_at": "2026-06-24T22:38:14",
   "apps": {
     "luminai": {
       "updated_on": "Jan 29, 2026",
@@ -7,8 +7,8 @@
       "package_id": "com.tmt.aiphoto.prod"
     },
     "pulsar_booster": {
-      "updated_on": "May 28, 2026",
-      "updated_ts": 1779938972,
+      "updated_on": "Jun 15, 2026",
+      "updated_ts": 1781462368,
       "package_id": "com.tranquilherond.pulsar.booster"
     },
     "snapvid": {
@@ -17,14 +17,19 @@
       "package_id": "com.tranquil.downloader.prod"
     },
     "veil_tunnel_browser": {
-      "updated_on": "Jun 10, 2026",
-      "updated_ts": 1781069179,
+      "updated_on": "Jun 15, 2026",
+      "updated_ts": 1781462294,
       "package_id": "com.tranquiltmt.veiltunnel.browser"
     },
     "star_ring": {
-      "updated_on": "Jun 12, 2026",
-      "updated_ts": 1781204991,
+      "updated_on": "Jun 24, 2026",
+      "updated_ts": 1782234842,
       "package_id": "com.tranquiltmt.starring"
+    },
+    "drama_loom": {
+      "updated_on": "Jun 15, 2026",
+      "updated_ts": 1781462107,
+      "package_id": "com.tranquiltmt.drama.loom"
     }
   }
 }
