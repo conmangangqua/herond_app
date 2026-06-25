@@ -44,7 +44,7 @@
     {
       "id": "nix_browser",
       "name": "Nix Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -55,7 +55,7 @@
       },
       "versions": {
         "dev": "1.0.2+26062503",
-        "prod": "1.0.2+26062502",
+        "prod": "1.0.2+26062503",
         "aab": "1.0.2+26062503"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
