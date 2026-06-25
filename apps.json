@@ -42,6 +42,23 @@
       "category_source": "store"
     },
     {
+      "id": "nix_browser",
+      "name": "Nix Browser",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_icon.png",
+      "platform": "Android",
+      "description": "",
+      "features": [],
+      "downloads": {
+        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_dev.apk"
+      },
+      "versions": {
+        "dev": "1.0.1+26061001"
+      },
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
+      "category": null,
+      "category_source": null
+    },
+    {
       "id": "pulsar_booster",
       "name": "Pulsar Booster",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
