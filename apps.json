@@ -44,7 +44,7 @@
     {
       "id": "nix_browser",
       "name": "Nix Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -54,7 +54,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/nix_browser.aab"
       },
       "versions": {
-        "dev": "1.0.2+26062502",
+        "dev": "1.0.2+26062503",
         "prod": "1.0.2+26062502",
         "aab": "1.0.2+26062502"
       },
@@ -117,7 +117,6 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/star_ring.aab"
       },
       "versions": {
-        "dev": "1.0.0+26061103",
         "prod": "1.0.0+26061103",
         "aab": "1.0.1+26062301"
       },
