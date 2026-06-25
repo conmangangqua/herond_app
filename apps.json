@@ -56,7 +56,7 @@
       "versions": {
         "dev": "1.0.2+26062502",
         "prod": "1.0.2+26062502",
-        "aab": "1.0.1+26062501"
+        "aab": "1.0.2+26062502"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
       "category": "Browser",
