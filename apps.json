@@ -56,7 +56,7 @@
       "versions": {
         "dev": "1.0.2+26062503",
         "prod": "1.0.2+26062502",
-        "aab": "1.0.2+26062502"
+        "aab": "1.0.2+26062503"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
       "category": "Browser",
@@ -117,6 +117,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/star_ring.aab"
       },
       "versions": {
+        "dev": "1.0.0+26061103",
         "prod": "1.0.0+26061103",
         "aab": "1.0.1+26062301"
       },
