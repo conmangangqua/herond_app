@@ -65,7 +65,7 @@
     {
       "id": "pulsar_booster",
       "name": "Pulsar Booster",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/pulsar_booster_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
