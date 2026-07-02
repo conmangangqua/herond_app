@@ -18,9 +18,9 @@
         "aab": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
-      "category": "Streaming",
-      "category_source": "rule",
-      "store_updated": "Jun 14, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -40,9 +40,9 @@
         "prod": "1.0.0+26012802"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod",
-      "category": "Art & Design",
-      "category_source": "store",
-      "store_updated": "Jan 28, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -63,9 +63,9 @@
         "aab": "1.0.2+26062503"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
-      "category": "Browser",
-      "category_source": "rule",
-      "store_updated": "Jun 25, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -86,9 +86,9 @@
         "aab": "1.0.1+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
-      "category": "Cleaner & Booster",
-      "category_source": "rule",
-      "store_updated": "Jun 14, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -109,9 +109,9 @@
         "aab": "1.0.7+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
-      "category": "Downloader",
-      "category_source": "rule",
-      "store_updated": "May 27, 2026",
+      "category": null,
+      "category_source": null,
+      "store_updated": null,
       "store_version": null
     },
     {
@@ -134,7 +134,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
       "category": null,
       "category_source": null,
-      "store_updated": "Jun 23, 2026",
+      "store_updated": null,
       "store_version": null
     }
   ]
