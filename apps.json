@@ -19,7 +19,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
       "category": "Streaming",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "Jun 14, 2026",
+      "store_version": null
     },
     {
       "id": "luminai",
@@ -39,7 +41,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod",
       "category": "Art & Design",
-      "category_source": "store"
+      "category_source": "store",
+      "store_updated": "Jan 28, 2026",
+      "store_version": null
     },
     {
       "id": "nix_browser",
@@ -60,7 +64,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
       "category": "Browser",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "Jun 25, 2026",
+      "store_version": null
     },
     {
       "id": "pulsar_booster",
@@ -81,7 +87,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
       "category": "Cleaner & Booster",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "Jun 14, 2026",
+      "store_version": null
     },
     {
       "id": "snapvid",
@@ -102,7 +110,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
       "category": "Downloader",
-      "category_source": "rule"
+      "category_source": "rule",
+      "store_updated": "May 27, 2026",
+      "store_version": null
     },
     {
       "id": "star_ring",
@@ -123,7 +133,9 @@
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
       "category": null,
-      "category_source": null
+      "category_source": null,
+      "store_updated": "Jun 23, 2026",
+      "store_version": null
     }
   ]
 }
