@@ -18,8 +18,8 @@
         "aab": "1.0.0+1"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
-      "category": null,
-      "category_source": null
+      "category": "Streaming",
+      "category_source": "rule"
     },
     {
       "id": "luminai",
@@ -38,8 +38,8 @@
         "prod": "1.0.0+26012802"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod",
-      "category": null,
-      "category_source": null
+      "category": "Art & Design",
+      "category_source": "store"
     },
     {
       "id": "nix_browser",
@@ -59,8 +59,8 @@
         "aab": "1.0.2+26062503"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
-      "category": null,
-      "category_source": null
+      "category": "Browser",
+      "category_source": "rule"
     },
     {
       "id": "pulsar_booster",
@@ -80,8 +80,8 @@
         "aab": "1.0.1+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
-      "category": null,
-      "category_source": null
+      "category": "Cleaner & Booster",
+      "category_source": "rule"
     },
     {
       "id": "snapvid",
@@ -101,8 +101,8 @@
         "aab": "1.0.7+26052701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
-      "category": null,
-      "category_source": null
+      "category": "Downloader",
+      "category_source": "rule"
     },
     {
       "id": "star_ring",
