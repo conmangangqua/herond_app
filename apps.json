@@ -48,7 +48,7 @@
     {
       "id": "nix_browser",
       "name": "Nix Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
