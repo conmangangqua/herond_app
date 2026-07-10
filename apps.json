@@ -2,7 +2,7 @@
   "apps": [
     {
       "id": "drama_loom",
-      "name": "Drama Loom",
+      "name": "Drama Loom: Short Drama",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_icon.png",
       "platform": "Android",
       "description": "",
@@ -25,7 +25,7 @@
     },
     {
       "id": "luminai",
-      "name": "Luminai",
+      "name": "LuminAI: AI Photo Enhancer",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
       "platform": "Android",
       "description": "",
@@ -47,7 +47,7 @@
     },
     {
       "id": "nix_browser",
-      "name": "Nix Browser",
+      "name": "NIX - VPN Browser",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
       "platform": "Android",
       "description": "",
@@ -70,7 +70,7 @@
     },
     {
       "id": "pulsar_booster",
-      "name": "Pulsar Booster",
+      "name": "PulsarBooster — Game Dashboard",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
       "platform": "Android",
       "description": "",
@@ -93,7 +93,7 @@
     },
     {
       "id": "snapvid",
-      "name": "Snapvid",
+      "name": "SnapVid Video Downloader",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
       "platform": "Android",
       "description": "",
@@ -116,7 +116,7 @@
     },
     {
       "id": "star_ring",
-      "name": "Star Ring",
+      "name": "StarRing: Celeb Prank Call",
       "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_icon.png",
       "platform": "Android",
       "description": "",
