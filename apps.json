@@ -3,7 +3,7 @@
     {
       "id": "drama_loom",
       "name": "Drama Loom: Short Drama",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_icon.png",
+      "icon": "icons/drama_loom.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -26,7 +26,7 @@
     {
       "id": "luminai",
       "name": "LuminAI: AI Photo Enhancer",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
+      "icon": "icons/luminai.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -48,7 +48,7 @@
     {
       "id": "nix_browser",
       "name": "NIX - VPN Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
+      "icon": "icons/nix_browser.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -70,8 +70,8 @@
     },
     {
       "id": "pulsar_booster",
-      "name": "PulsarBooster \u2014 Game Dashboard",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png",
+      "name": "PulsarBooster — Game Dashboard",
+      "icon": "icons/pulsar_booster.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -94,7 +94,7 @@
     {
       "id": "snapvid",
       "name": "SnapVid Video Downloader",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png",
+      "icon": "icons/snapvid.webp",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -117,7 +117,7 @@
     {
       "id": "star_ring",
       "name": "StarRing: Celeb Prank Call",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_icon.png",
+      "icon": "icons/star_ring.webp",
       "platform": "Android",
       "description": "",
       "features": [],
