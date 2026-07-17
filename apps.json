@@ -48,19 +48,18 @@
     {
       "id": "nix_browser",
       "name": "NIX - VPN Browser",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
       "downloads": {
-        "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_dev.apk",
         "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/nix_browser.aab"
       },
       "versions": {
-        "dev": "1.0.4+26071501",
+        "dev": "1.0.5+26071701",
         "prod": "1.0.4+26071501",
-        "aab": "1.0.4+26071501"
+        "aab": "1.0.5+26071701"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
       "category": "Browser",
