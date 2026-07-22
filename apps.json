@@ -26,7 +26,7 @@
     {
       "id": "luminai",
       "name": "LuminAI: AI Photo Enhancer",
-      "icon": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png",
+      "icon": "https://github.com/conmangangqua/herond_app/releases/download/dev/luminai_icon.png",
       "platform": "Android",
       "description": "",
       "features": [],
@@ -36,7 +36,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/luminai.aab"
       },
       "versions": {
-        "dev": "1.0.0+26012802",
+        "dev": "1.0.0+26072201",
         "prod": "1.0.0+26012802"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tmt.aiphoto.prod",
