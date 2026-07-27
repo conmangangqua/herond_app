@@ -1,0 +1,26 @@
+{
+  "drama_loom": {
+    "sha": "7f1189daec39efcbd81c761690eb2b012371a4368c654c06c0d7e16eac823193",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/drama_loom_icon.png"
+  },
+  "luminai": {
+    "sha": "c2cc5440782888e8a179daa4ad2e62fbf07e400985aa01f0d9c1175fde87e93e",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/luminai_icon.png"
+  },
+  "nix_browser": {
+    "sha": "815864560d577766c7ae62702c22618908b5a5c46bd6c2f23fa5f9310f5ff54c",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_icon.png"
+  },
+  "pulsar_booster": {
+    "sha": "ac4c8539353befe7a5c309f29ca9e0fa8873e72f548ec439f1ecd5e99d3c4692",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/pulsar_booster_icon.png"
+  },
+  "snapvid": {
+    "sha": "95386ca2e015a07934dd6160568383d4dd379524df31bc60ac62e2c66c755d3a",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/snapvid_icon.png"
+  },
+  "star_ring": {
+    "sha": "2f39bcfbb950f3d91f48a20c1b1982b963ef1ad654f20c9c25ab5688aaf2f17e",
+    "src": "https://github.com/conmangangqua/herond_app/releases/download/prod/star_ring_icon.png"
+  }
+}
