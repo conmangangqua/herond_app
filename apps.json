@@ -54,6 +54,7 @@
       "features": [],
       "downloads": {
         "dev": "https://github.com/conmangangqua/herond_app/releases/download/dev/nix_browser_dev.apk",
+        "prod": "https://github.com/conmangangqua/herond_app/releases/download/prod/nix_browser_prod.apk",
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/nix_browser.aab"
       },
       "versions": {
