@@ -58,7 +58,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/nix_browser.aab"
       },
       "versions": {
-        "dev": "1.0.0+26072801",
+        "dev": "1.0.9+26072802",
         "prod": "1.0.0+26072801",
         "aab": "1.0.0+26072801"
       },
