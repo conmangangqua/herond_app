@@ -107,7 +107,7 @@
       "versions": {
         "dev": "1.0.7+26052701",
         "prod": "1.0.7+26052701",
-        "aab": "1.0.7+26072201"
+        "aab": "1.0.8+26072901"
       },
       "store": "https://play.google.com/store/apps/details?id=com.tranquil.downloader.prod",
       "category": "Downloader",
