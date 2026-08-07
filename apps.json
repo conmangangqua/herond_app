@@ -132,10 +132,10 @@
         "prod": "1.0.0+26061103",
         "aab": "1.0.2+26072901"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
       "category": null,
       "category_source": null,
-      "store_updated": null,
+      "store_updated": "Jul 29, 2026",
       "store_version": null
     }
   ]
