@@ -63,10 +63,10 @@
         "prod": "1.1.0+26080701",
         "aab": "1.1.2+26081102"
       },
-      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
+      "store": "",
       "category": "Browser",
       "category_source": "rule",
-      "store_updated": "Aug 10, 2026",
+      "store_updated": null,
       "store_version": null
     },
     {
