@@ -105,7 +105,7 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/snapvid.aab"
       },
       "versions": {
-        "dev": "1.0.7+26052701",
+        "dev": "1.1.0+26080601",
         "prod": "1.0.7+26052701",
         "aab": "1.1.0+26080601"
       },
