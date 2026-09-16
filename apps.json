@@ -82,7 +82,6 @@
         "aab": "https://github.com/conmangangqua/herond_app/releases/download/aab/pulsar_booster.aab"
       },
       "versions": {
-        "dev": "1.0.1+26052701",
         "prod": "1.0.1+26052701",
         "aab": "1.0.1+26052701"
       },
