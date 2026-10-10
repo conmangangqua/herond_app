@@ -20,7 +20,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.drama.loom",
       "category": "Streaming",
       "category_source": "rule",
-      "store_updated": "Jul 21, 2026",
+      "store_updated": "Jul 20, 2026",
       "store_version": null
     },
     {
@@ -89,7 +89,7 @@
       "store": "https://play.google.com/store/apps/details?id=com.tranquilherond.pulsar.booster",
       "category": "Cleaner & Booster",
       "category_source": "rule",
-      "store_updated": "Jun 15, 2026",
+      "store_updated": "Jun 14, 2026",
       "store_version": null
     },
     {
@@ -132,10 +132,10 @@
         "prod": "1.0.2+26072901",
         "aab": "1.0.2+26072901"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
       "category": null,
       "category_source": null,
-      "store_updated": null,
+      "store_updated": "Jul 29, 2026",
       "store_version": null
     }
   ]
