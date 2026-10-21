@@ -1,1 +1,4 @@
-{}
+{
+  "nix_browser": "android:com.tranquiltmt.veiltunnel.browser",
+  "star_ring": "android:com.tranquiltmt.starring"
+}

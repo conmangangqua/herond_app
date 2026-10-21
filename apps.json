@@ -63,7 +63,7 @@
         "prod": "1.1.2+26081102",
         "aab": "1.1.2+26081102"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.veiltunnel.browser",
       "category": "Browser",
       "category_source": "rule",
       "store_updated": null,
@@ -132,7 +132,7 @@
         "prod": "1.0.2+26072901",
         "aab": "1.0.2+26072901"
       },
-      "store": "",
+      "store": "https://play.google.com/store/apps/details?id=com.tranquiltmt.starring",
       "category": null,
       "category_source": null,
       "store_updated": null,
